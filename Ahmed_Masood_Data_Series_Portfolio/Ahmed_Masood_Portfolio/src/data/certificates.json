@@ -1,0 +1,90 @@
+[
+  {
+    "issuer": "BeeNeural.AI",
+    "name": "Data Science & Analytics Internship",
+    "kind": "Certificates",
+    "date": "27 August 2026",
+    "link": "/assets/certificates/beeneural-completion.pdf",
+    "preview": "/assets/certificates/beeneural-completion.webp"
+  },
+  {
+    "issuer": "M Tech Production & Marketing",
+    "name": "Data Science Internship Completion",
+    "kind": "Certificates",
+    "date": "5 October 2026",
+    "link": "/assets/certificates/mtech-completion.pdf",
+    "preview": "/assets/certificates/mtech-completion.webp"
+  },
+  {
+    "issuer": "CodeAlpha",
+    "name": "Data Science Internship Completion",
+    "kind": "Certificates",
+    "date": "12 June 2026",
+    "link": "/assets/certificates/codealpha-completion.pdf",
+    "preview": "/assets/certificates/codealpha-completion.webp"
+  },
+  {
+    "issuer": "IBM SkillsBuild",
+    "name": "Overview of Data Tools and Languages",
+    "kind": "Certificates",
+    "date": "23 July 2026",
+    "link": "/assets/certificates/ibm-data-tools.pdf",
+    "preview": "/assets/certificates/ibm-data-tools.webp"
+  },
+  {
+    "issuer": "Deloitte \u00b7 Forage",
+    "name": "Data Analytics Job Simulation",
+    "kind": "Certificates",
+    "date": "23 July 2026",
+    "link": "/assets/certificates/deloitte-analytics.pdf",
+    "preview": "/assets/certificates/deloitte-analytics.webp"
+  },
+  {
+    "issuer": "M Tech Production & Marketing",
+    "name": "Certificate of Appreciation",
+    "kind": "Certificates",
+    "date": "2026",
+    "link": "/assets/certificates/mtech-appreciation.pdf",
+    "preview": "/assets/certificates/mtech-appreciation.webp"
+  },
+  {
+    "issuer": "BeeNeural.AI",
+    "name": "Internship Experience Letter",
+    "kind": "Letters",
+    "date": "27 August 2026",
+    "link": "/assets/certificates/beeneural-experience.pdf",
+    "preview": "/assets/certificates/beeneural-experience.webp"
+  },
+  {
+    "issuer": "CodeAlpha",
+    "name": "Letter of Recommendation",
+    "kind": "Letters",
+    "date": "12 June 2026",
+    "link": "/assets/certificates/codealpha-recommendation.pdf",
+    "preview": "/assets/certificates/codealpha-recommendation.webp"
+  },
+  {
+    "issuer": "CodeAlpha",
+    "name": "Data Science Internship Offer",
+    "kind": "Letters",
+    "date": "8 May 2026",
+    "link": "/assets/certificates/codealpha-offer.pdf",
+    "preview": "/assets/certificates/codealpha-offer.webp"
+  },
+  {
+    "issuer": "M Tech Production & Marketing",
+    "name": "Data Science Internship Offer",
+    "kind": "Letters",
+    "date": "10 June 2026",
+    "link": "/assets/certificates/mtech-offer.pdf",
+    "preview": "/assets/certificates/mtech-offer.webp"
+  },
+  {
+    "issuer": "BeeNeural.AI",
+    "name": "Internship Evaluation Report",
+    "kind": "Reports",
+    "date": "27 August 2026",
+    "link": "/assets/certificates/beeneural-evaluation.pdf",
+    "preview": "/assets/certificates/beeneural-evaluation.webp"
+  }
+]
